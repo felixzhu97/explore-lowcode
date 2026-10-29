@@ -1,6 +1,6 @@
 # Explore Lowcode
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black.svg)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB.svg)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6.svg)](https://www.typescriptlang.org/)
@@ -128,4 +128,4 @@ Issues and pull requests are welcome. Use the repository [pull request template]
 
 ## License
 
-[MIT](LICENSE) © Felix
+[Apache-2.0](LICENSE) © Felix Zhu
