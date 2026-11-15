@@ -1,4 +1,10 @@
-# Explore Lowcode
+# explore-lowcode
+
+> **Moved.** Development continues in
+> [explore-workspace](https://github.com/felixzhu97/explore-workspace) under
+> `lowcode/`. This repository is archived; please open new issues and pull
+> requests there.
+
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black.svg)](https://nextjs.org/)
